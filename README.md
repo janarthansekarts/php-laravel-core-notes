@@ -27,3 +27,29 @@ If you’re looking for “how to build CRUD apps” or quick start guides, this
 The content is structured progressively, in the same order that the concepts build on each other.
 
 ``
+
+Each section contains Markdown files that focus on *one concept at a time*.
+
+---
+
+## Writing principles I follow
+
+- Explain **WHY before HOW**
+- Every concept is explained before it is used
+- Simple analogies → technical explanation
+- Avoid surface-level summaries
+- Prefer clarity over brevity
+
+---
+
+## Status
+
+This repository is actively updated as I study and refine my understanding.
+Notes may evolve over time as concepts become clearer.
+
+---
+
+## Disclaimer
+
+These notes reflect my current understanding at the time of writing.
+They are meant to be **thoughtful and practical**, not authoritative documentation.
